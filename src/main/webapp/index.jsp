@@ -12,7 +12,7 @@
 
   <table class="w3-table-all">
     <tr>
-      <th>mallikarjun</th>
+      <th>firstname</th>
       <th>Last Name</th>
       <th>Points</th>
     </tr>
